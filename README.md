@@ -1,2 +1,2 @@
 # AuroraGUIAutomationSquish
-Aurora GUI Automationon
+Aurora GUI Automation
